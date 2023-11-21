@@ -1,0 +1,4 @@
+Hope i am doing it correctly.
+ -- just used the git bash to init the folder 
+ -- created a file and commited the file
+ -- published the repo in vs code 
